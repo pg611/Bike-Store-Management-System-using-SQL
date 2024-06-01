@@ -10,7 +10,7 @@ The Bike Store Management System is a comprehensive database management project 
 
 The dataset used in this project is derived from the SQL Server Sample Database provided by SQL Server Tutorial. This sample database, named BikeStores, includes essential data for managing a bike store's inventory, sales, and staff. The dataset can be accessed and downloaded from the following link:
 
-# SQL Server Sample Database - BikeStores
+https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/
 
 The dataset comprises two schemas: sales and production, which include the following tables:
 
